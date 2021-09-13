@@ -548,9 +548,9 @@ iframe{
 
 /* 375*/
 @media (max-width: 667px) {
- /* .address__map {
-/*    width: 361px;
- /* }
+  .address__map {
+    width: 361px;
+ }
 
   .address__text {
     width: 361px;
